@@ -79,5 +79,4 @@
 ###
 
 <img src="https://raw.githubusercontent.com/AKAME007/AKAME007/output/snake.svg" alt="Snake animation" />
-
 ###
