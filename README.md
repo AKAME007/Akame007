@@ -18,8 +18,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="45" alt="javascript logo"  />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="45" alt="javascript logo" name="javascript"  />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript logo"  />
   <img width="30" />
@@ -77,8 +77,6 @@
 <h2 align="left">職務経歴。</h2>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/AKAME007/AKAME007/output/snake.svg" alt="Snake animation" />
 
